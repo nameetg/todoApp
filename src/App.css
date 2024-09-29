@@ -1,0 +1,19 @@
+/* h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+} */
+
+input {
+  width: 100%;
+}
+
+.aura-rows {
+  margin: 10px 5px;
+}
+
+.aura-btn {
+  min-width: 80px;
+  /* align-content: center; */
+}
